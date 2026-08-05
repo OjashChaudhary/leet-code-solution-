@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
