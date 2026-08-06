@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
@@ -195,4 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
