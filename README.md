@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -318,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
