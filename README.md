@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0128-longest-consecutive-sequence) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 ## Range Minimum/Maximum Query
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
