@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
+| [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 ## Linked List
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
