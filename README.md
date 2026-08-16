@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0146-lru-cache) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0051-n-queens) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
