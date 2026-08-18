@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 ## Greedy
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 ## Linked List
 |  |
 | ------- |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -357,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -454,4 +461,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
