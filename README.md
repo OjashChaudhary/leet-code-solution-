@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
@@ -472,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
