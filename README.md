@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
@@ -496,4 +499,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
