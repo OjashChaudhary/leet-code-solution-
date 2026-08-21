@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
