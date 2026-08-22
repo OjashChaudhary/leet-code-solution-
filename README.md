@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
