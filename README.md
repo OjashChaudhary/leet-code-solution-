@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1143-longest-common-subsequence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1143-longest-common-subsequence) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
