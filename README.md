@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
