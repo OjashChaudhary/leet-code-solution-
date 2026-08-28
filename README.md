@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
