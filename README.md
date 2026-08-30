@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
