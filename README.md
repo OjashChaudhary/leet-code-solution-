@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0338-counting-bits) |
