@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -677,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0284-peeking-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
