@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
+| [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
 ## Sorting
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
 ## Math
 |  |
@@ -685,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
