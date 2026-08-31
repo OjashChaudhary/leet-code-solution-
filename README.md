@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
+| [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
@@ -671,4 +676,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
