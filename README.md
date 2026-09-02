@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
@@ -626,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
@@ -719,4 +726,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0274-h-index) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
