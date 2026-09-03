@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0461-hamming-distance) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -762,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
+## Enumeration
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
