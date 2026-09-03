@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 ## Union-Find
 |  |
 | ------- |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0289-game-of-life) |
+| [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 ## Iterator
 |  |
 | ------- |
