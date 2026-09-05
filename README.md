@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
+| [1929-concatenation-of-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1929-concatenation-of-array) |
 ## Iterator
 |  |
 | ------- |
