@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0881-boats-to-save-people) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
@@ -783,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
