@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0387-first-unique-character-in-a-string) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0225-implement-stack-using-queues) |
 | [0284-peeking-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
