@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0560-subarray-sum-equals-k) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0875-koko-eating-bananas) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
+| [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
@@ -805,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
