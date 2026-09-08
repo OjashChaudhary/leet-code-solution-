@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0344-reverse-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
