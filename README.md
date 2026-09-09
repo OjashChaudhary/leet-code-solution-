@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0138-copy-list-with-random-pointer) |
