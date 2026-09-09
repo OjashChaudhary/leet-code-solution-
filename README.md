@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0355-design-twitter) |
+| [0707-design-linked-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
