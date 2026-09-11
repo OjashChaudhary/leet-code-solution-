@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0115-distinct-subsequences) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
