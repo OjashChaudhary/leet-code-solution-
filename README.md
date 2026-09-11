@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0130-surrounded-regions) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0138-copy-list-with-random-pointer) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0113-path-sum-ii) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0113-path-sum-ii) |
