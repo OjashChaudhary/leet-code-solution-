@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0231-power-of-two) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
