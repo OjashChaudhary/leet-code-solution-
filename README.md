@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
