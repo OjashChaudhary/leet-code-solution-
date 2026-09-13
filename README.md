@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
+| [0648-replace-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 ## Data Stream
 |  |
