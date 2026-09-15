@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0384-shuffle-an-array) |
+| [0836-rectangle-overlap](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
 ## Backtracking
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
