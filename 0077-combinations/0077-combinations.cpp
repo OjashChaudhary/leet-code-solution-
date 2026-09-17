@@ -1,25 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> temp;
-
-    void solve(int start, int n, int k) {
-        if (temp.size() == k) {
-            ans.push_back(temp);
-            return;
-        }
-
-        for (int i = start; i <= n; i++) {
-            temp.push_back(i);
-
-            solve(i + 1, n, k);
-
-            temp.pop_back();
-        }
-    }
-
     vector<vector<int>> combine(int n, int k) {
-        solve(1, n, k);
-        return ans;
+        vector<vector<int>> result;
+        vector<int> temp(k, 0);
+        int i = 0;
+        
+        while (i >= 0) {
+            temp[i]++;
+            
+            if (temp[i] > n) {
+                i--;
+            } else if (i == k - 1) {
+                result.push_back(temp);
+            } else {
+                i++;
+                temp[i] = temp[i - 1];
+            }
+        }
+        
+        return result;
     }
 };
