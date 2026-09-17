@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1143-longest-common-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Queue
 |  |
 | ------- |
