@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0384-shuffle-an-array) |
 | [0836-rectangle-overlap](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Backtracking
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
