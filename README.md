@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3498-reverse-degree-of-a-string) |
 ## Iterator
 |  |
 | ------- |
