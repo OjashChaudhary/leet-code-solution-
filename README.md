@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0042-trapping-rain-water) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0046-permutations) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0074-search-a-2d-matrix) |
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0051-n-queens) |
 ## Graph Theory
 |  |
@@ -936,4 +941,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3525-find-x-value-of-array-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
