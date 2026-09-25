@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Range Minimum/Maximum Query
 |  |
@@ -712,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
