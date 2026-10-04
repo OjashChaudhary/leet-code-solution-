@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -1000,4 +1004,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0037-sudoku-solver) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
