@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0399-evaluate-division) |
