@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Timsort
 |  |
 | ------- |
