@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3525-find-x-value-of-array-ii) |
@@ -727,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -817,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -840,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -928,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -961,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Longest Common Subsequence
 |  |
@@ -1055,4 +1065,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
