@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    long long mod = 1000000007;
+    const long long MOD = 1000000007;
     vector<vector<long long>> comb;
 
     long long solve(vector<int>& nums) {
@@ -22,7 +22,8 @@ public:
         long long r = solve(right);
 
         long long ways = comb[n - 1][left.size()];
-        return ways * l % mod * r % mod;
+
+        return ways * l % MOD * r % MOD;
     }
 
     int numOfWays(vector<int>& nums) {
@@ -31,14 +32,17 @@ public:
         comb.assign(n + 1, vector<long long>(n + 1, 0));
 
         for (int i = 0; i <= n; i++) {
-            comb[i][0] = comb[i][i] = 1;
+            comb[i][0] = 1;
 
-            for (int j = 1; j < i; j++) {
-                comb[i][j] = (comb[i - 1][j - 1] +
-                              comb[i - 1][j]) % mod;
+            for (int j = 1; j <= i; j++) {
+                if (j == i)
+                    comb[i][j] = 1;
+                else
+                    comb[i][j] = (comb[i - 1][j - 1] +
+                                  comb[i - 1][j]) % MOD;
             }
         }
 
-        return (solve(nums) - 1 + mod) % mod;
+        return (solve(nums) - 1 + MOD) % MOD;
     }
 };
