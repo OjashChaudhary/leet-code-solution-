@@ -2,15 +2,13 @@ class Solution {
 public:
     int minOperations(string s) {
         int n = s.size();
-        bool sorted = true;
-
         char mn = s[0], mx = s[0];
+        bool sorted = true;
+        for (int i = 1; i < n; i++) {
+            if (s[i] < mn) mn = s[i];
+            if (s[i] > mx) mx = s[i];
 
-        for (int i = 0; i < n; i++) {
-            mn = min(mn, s[i]);
-            mx = max(mx, s[i]);
-
-            if (i > 0 && s[i] < s[i - 1])
+            if (s[i] < s[i - 1])
                 sorted = false;
         }
 
