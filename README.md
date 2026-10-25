@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
+| [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
