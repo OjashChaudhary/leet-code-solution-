@@ -1,31 +1,44 @@
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int m= grid.size(), n= grid[0].size();
+        int m = grid.size();
+        int n = grid[0].size();
+        int total = 1024;
 
-        vector<unordered_set<int>> hash(n);
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(i== 0 && j==0){
-                    hash[j].insert(grid[0][0]);
-                }
-                else{
-                    unordered_set<int> s;
-                    for(int x: hash[j]){
-                        s.insert(x ^ grid[i][j]);
+        vector<vector<bool>> dp(n, vector<bool>(total, false));
+        dp[0][0] = true;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                vector<bool> cur(total, false);
+
+                if (i == 0 && j == 0) {
+                    cur[grid[i][j]] = true;
+                } else {
+                    if (i > 0) {
+                        for (int x = 0; x < total; x++) {
+                            if (dp[j][x])
+                                cur[x ^ grid[i][j]] = true;
+                        }
                     }
-                    hash[j]=s;
 
-                    if(j!= 0){
-                        for(int x: hash[j-1]){
-                            hash[j].insert(x ^ grid[i][j]);
+                    if (j > 0) {
+                        for (int x = 0; x < total; x++) {
+                            if (dp[j - 1][x])
+                                cur[x ^ grid[i][j]] = true;
                         }
                     }
                 }
+
+                dp[j] = cur;
             }
         }
-        int ans= INT_MAX;
-        for(int i: hash[n-1]) ans= min(ans, i);
-        return ans;
+
+        for (int x = 0; x < total; x++) {
+            if (dp[n - 1][x])
+                return x;
+        }
+
+        return 0;
     }
 };
