@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1882-process-tasks-using-servers](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1882-process-tasks-using-servers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1642-furthest-building-you-can-reach](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1642-furthest-building-you-can-reach) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1882-process-tasks-using-servers](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
