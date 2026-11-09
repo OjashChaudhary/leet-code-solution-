@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1094-car-pooling) |
 | [1146-snapshot-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1146-snapshot-array) |
 | [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1512-number-of-good-pairs) |
 | [2013-detect-squares](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2013-detect-squares) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1584-min-cost-to-connect-all-points) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3665-twisted-mirror-path-count) |
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -857,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
