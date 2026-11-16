@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0141-linked-list-cycle) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0113-path-sum-ii) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0113-path-sum-ii) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashChaudhary/leet-code-solution-in-java-/tree/master/0703-kth-largest-element-in-a-stream) |
